@@ -1,0 +1,12 @@
+header {
+    border: grey solid;
+    background-color: grey;
+    height: 75px;
+}
+
+
+footer {
+    border: grey solid;
+    background-color: saddlebrown;
+    height: 80px;
+}
