@@ -1,0 +1,47 @@
+#b {
+    height: 150px;
+    background-color: aqua;
+}
+
+#b {
+    height: 150px;
+    background-color: pink;
+}
+
+#c {
+    height: 125px;
+    background-color: blue;
+}
+
+#d {
+    height: 125px;
+    background-color: green; 
+}
+
+section #e {
+    height: 250px;
+    width: 240px;
+    float: left;
+    background-color: orange;   
+}
+
+section #f {
+    height: 250px;
+    width: 240px;
+    float: right;
+    background-color: red;   
+}
+
+section #g {
+    height: 250px;
+    width: 240px;
+    float: left;
+    background-color: yellow;   
+}
+
+section #h {
+    height: 250px;
+    width: 240px;
+    float: right;
+    background-color:  darkgray;   
+}
